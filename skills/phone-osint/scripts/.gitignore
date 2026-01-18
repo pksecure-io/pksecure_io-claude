@@ -1,0 +1,45 @@
+# WhatsApp session data (NEVER commit!)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Telegram session data (NEVER commit!)
+.telegram_session
+.telegram_config.json
+
+# Snapchat session data (NEVER commit!)
+.snapchat_session.json
+.snapchat_config.json
+
+# Node modules
+node_modules/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Logs (contain sensitive investigation data)
+../logs/*.json
+../logs/*.log
+
+# npm debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Investigation data
+investigation_*.txt
+authorization_*.pdf
+
+# Screenshots from manual verification
+snapchat_*.png
+whatsapp_*.png
+telegram_*.png

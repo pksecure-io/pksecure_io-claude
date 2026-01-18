@@ -1,0 +1,43 @@
+{
+  "name": "phone-osint-messaging-checker",
+  "version": "0.2.0",
+  "description": "Messaging platform account verification tools for corporate security investigations (UNOFFICIAL - violates platform ToS)",
+  "main": "whatsapp_check.js",
+  "scripts": {
+    "check:whatsapp": "node whatsapp_check.js",
+    "check:telegram": "node telegram_check.js",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "whatsapp",
+    "telegram",
+    "osint",
+    "security",
+    "investigation",
+    "bec",
+    "fraud-prevention"
+  ],
+  "author": "Paul Kincaid <paul@pksecure.io>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "telegram": "^2.18.0",
+    "input": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pksecure/phone-osint"
+  },
+  "warnings": [
+    "⚠️ These tools use UNOFFICIAL WhatsApp and Telegram libraries",
+    "⚠️ VIOLATE WhatsApp and Telegram Terms of Service",
+    "⚠️ Risk of account/phone number being PERMANENTLY BANNED",
+    "⚠️ Use ONLY with dedicated investigation phone number",
+    "⚠️ ONLY for authorized corporate security investigations",
+    "⚠️ Obtain legal/compliance approval before use"
+  ]
+}

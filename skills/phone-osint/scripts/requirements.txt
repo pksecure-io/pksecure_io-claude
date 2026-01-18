@@ -1,0 +1,18 @@
+# Python dependencies for phone-osint skill scripts
+#
+# Install with: pip install -r requirements.txt
+# Or with virtualenv:
+#   python -m venv venv
+#   source venv/bin/activate  # On Windows: venv\Scripts\activate
+#   pip install -r requirements.txt
+
+# Phone number parsing and validation library
+# Google's libphonenumber library ported to Python
+phonenumbers>=8.13.0
+
+# Data manipulation library for CSV database handling
+pandas>=1.5.0
+
+# HTTP library for potential future API integrations
+# Currently not used in free-sources-only implementation
+requests>=2.31.0

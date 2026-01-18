@@ -1,0 +1,356 @@
+area_code,country,state,city,region,latitude,longitude,timezone
+201,USA,New Jersey,Jersey City,Northern NJ,40.7178,-74.0431,America/New_York
+202,USA,District of Columbia,Washington,DC Metro,38.9072,-77.0369,America/New_York
+203,USA,Connecticut,New Haven,Southwest CT,41.3083,-72.9279,America/New_York
+205,USA,Alabama,Birmingham,Central AL,33.5186,-86.8104,America/Chicago
+206,USA,Washington,Seattle,Western WA,47.6062,-122.3321,America/Los_Angeles
+207,USA,Maine,Portland,All of ME,43.6591,-70.2568,America/New_York
+208,USA,Idaho,Boise,All of ID,43.6150,-116.2023,America/Denver
+209,USA,California,Stockton,Central CA,37.9577,-121.2908,America/Los_Angeles
+210,USA,Texas,San Antonio,South TX,29.4241,-98.4936,America/Chicago
+212,USA,New York,New York City,Manhattan,40.7128,-74.0060,America/New_York
+213,USA,California,Los Angeles,Downtown LA,34.0522,-118.2437,America/Los_Angeles
+214,USA,Texas,Dallas,North TX,32.7767,-96.7970,America/Chicago
+215,USA,Pennsylvania,Philadelphia,Eastern PA,39.9526,-75.1652,America/New_York
+216,USA,Ohio,Cleveland,Northeast OH,41.4993,-81.6944,America/New_York
+217,USA,Illinois,Springfield,Central IL,39.7817,-89.6501,America/Chicago
+218,USA,Minnesota,Duluth,Northern MN,46.7867,-92.1005,America/Chicago
+219,USA,Indiana,Gary,Northwest IN,41.5934,-87.3464,America/Chicago
+224,USA,Illinois,Arlington Heights,Northern IL,42.0883,-88.0906,America/Chicago
+225,USA,Louisiana,Baton Rouge,Southeast LA,30.4515,-91.1871,America/Chicago
+228,USA,Mississippi,Gulfport,Southern MS,30.3674,-89.0928,America/Chicago
+229,USA,Georgia,Albany,Southwest GA,31.5785,-84.1557,America/New_York
+231,USA,Michigan,Traverse City,Northwest MI,44.7631,-85.6206,America/New_York
+234,USA,Ohio,Akron,Northeast OH,41.0814,-81.5190,America/New_York
+239,USA,Florida,Fort Myers,Southwest FL,26.6406,-81.8723,America/New_York
+240,USA,Maryland,Rockville,Western MD,39.0840,-77.1528,America/New_York
+248,USA,Michigan,Troy,Southeast MI,42.6064,-83.1498,America/New_York
+251,USA,Alabama,Mobile,Southwest AL,30.6954,-88.0399,America/Chicago
+252,USA,North Carolina,Greenville,Eastern NC,35.6127,-77.3664,America/New_York
+253,USA,Washington,Tacoma,Western WA,47.2529,-122.4443,America/Los_Angeles
+254,USA,Texas,Waco,Central TX,31.5493,-97.1467,America/Chicago
+256,USA,Alabama,Huntsville,Northern AL,34.7304,-86.5861,America/Chicago
+260,USA,Indiana,Fort Wayne,Northeast IN,41.0793,-85.1394,America/New_York
+262,USA,Wisconsin,Kenosha,Southeast WI,42.5847,-87.8212,America/Chicago
+267,USA,Pennsylvania,Philadelphia,Eastern PA,39.9526,-75.1652,America/New_York
+269,USA,Michigan,Kalamazoo,Southwest MI,42.2917,-85.5872,America/New_York
+270,USA,Kentucky,Bowling Green,Western KY,36.9685,-86.4808,America/Chicago
+276,USA,Virginia,Bristol,Southwest VA,36.5951,-82.1887,America/New_York
+281,USA,Texas,Houston,Southeast TX,29.7604,-95.3698,America/Chicago
+301,USA,Maryland,Rockville,Western MD,39.0840,-77.1528,America/New_York
+302,USA,Delaware,Wilmington,All of DE,39.7391,-75.5398,America/New_York
+303,USA,Colorado,Denver,Central CO,39.7392,-104.9903,America/Denver
+304,USA,West Virginia,Charleston,All of WV,38.3498,-81.6326,America/New_York
+305,USA,Florida,Miami,Southeast FL,25.7617,-80.1918,America/New_York
+307,USA,Wyoming,Cheyenne,All of WY,41.1400,-104.8202,America/Denver
+308,USA,Nebraska,Grand Island,Western NE,40.9264,-98.3420,America/Chicago
+309,USA,Illinois,Peoria,Central IL,40.6936,-89.5890,America/Chicago
+310,USA,California,Santa Monica,West LA,34.0195,-118.4912,America/Los_Angeles
+312,USA,Illinois,Chicago,Downtown Chicago,41.8781,-87.6298,America/Chicago
+313,USA,Michigan,Detroit,Southeast MI,42.3314,-83.0458,America/New_York
+314,USA,Missouri,St. Louis,Eastern MO,38.6270,-90.1994,America/Chicago
+315,USA,New York,Syracuse,Central NY,43.0481,-76.1474,America/New_York
+316,USA,Kansas,Wichita,South KS,37.6872,-97.3301,America/Chicago
+317,USA,Indiana,Indianapolis,Central IN,39.7684,-86.1581,America/New_York
+318,USA,Louisiana,Shreveport,Northwest LA,32.5252,-93.7502,America/Chicago
+319,USA,Iowa,Cedar Rapids,Eastern IA,41.9779,-91.6656,America/Chicago
+320,USA,Minnesota,St. Cloud,Central MN,45.5579,-94.1632,America/Chicago
+321,USA,Florida,Orlando,East Central FL,28.5383,-81.3792,America/New_York
+323,USA,California,Los Angeles,Central LA,34.0522,-118.2437,America/Los_Angeles
+330,USA,Ohio,Akron,Northeast OH,41.0814,-81.5190,America/New_York
+331,USA,Illinois,Aurora,Northern IL,41.7606,-88.3201,America/Chicago
+334,USA,Alabama,Montgomery,Southeast AL,32.3668,-86.3000,America/Chicago
+336,USA,North Carolina,Greensboro,Central NC,36.0726,-79.7920,America/New_York
+337,USA,Louisiana,Lafayette,Southwest LA,30.2241,-92.0198,America/Chicago
+339,USA,Massachusetts,Boston,Eastern MA,42.3601,-71.0589,America/New_York
+346,USA,Texas,Houston,Southeast TX,29.7604,-95.3698,America/Chicago
+347,USA,New York,New York City,Bronx/Brooklyn/Queens,40.7128,-74.0060,America/New_York
+351,USA,Massachusetts,Lowell,Northeast MA,42.6334,-71.3162,America/New_York
+352,USA,Florida,Gainesville,North Central FL,29.6516,-82.3248,America/New_York
+360,USA,Washington,Olympia,Western WA,47.0379,-122.9007,America/Los_Angeles
+361,USA,Texas,Corpus Christi,South TX,27.8006,-97.3964,America/Chicago
+385,USA,Utah,Salt Lake City,Northern UT,40.7608,-111.8910,America/Denver
+386,USA,Florida,Daytona Beach,Northeast FL,29.2108,-81.0228,America/New_York
+401,USA,Rhode Island,Providence,All of RI,41.8240,-71.4128,America/New_York
+402,USA,Nebraska,Omaha,Eastern NE,41.2565,-95.9345,America/Chicago
+404,USA,Georgia,Atlanta,Metro Atlanta,33.7490,-84.3880,America/New_York
+405,USA,Oklahoma,Oklahoma City,Central OK,35.4676,-97.5164,America/Chicago
+406,USA,Montana,Billings,All of MT,45.7833,-108.5007,America/Denver
+407,USA,Florida,Orlando,Central FL,28.5383,-81.3792,America/New_York
+408,USA,California,San Jose,Santa Clara County,37.3382,-121.8863,America/Los_Angeles
+409,USA,Texas,Beaumont,Southeast TX,30.0802,-94.1266,America/Chicago
+410,USA,Maryland,Baltimore,Central MD,39.2904,-76.6122,America/New_York
+412,USA,Pennsylvania,Pittsburgh,Western PA,40.4406,-79.9959,America/New_York
+413,USA,Massachusetts,Springfield,Western MA,42.1015,-72.5898,America/New_York
+414,USA,Wisconsin,Milwaukee,Southeast WI,43.0389,-87.9065,America/Chicago
+415,USA,California,San Francisco,SF City,37.7749,-122.4194,America/Los_Angeles
+417,USA,Missouri,Springfield,Southwest MO,37.2090,-93.2923,America/Chicago
+419,USA,Ohio,Toledo,Northwest OH,41.6528,-83.5379,America/New_York
+423,USA,Tennessee,Chattanooga,Southeast TN,35.0456,-85.3097,America/New_York
+424,USA,California,Los Angeles,West LA,34.0522,-118.2437,America/Los_Angeles
+425,USA,Washington,Bellevue,Western WA,47.6101,-122.2015,America/Los_Angeles
+430,USA,Texas,Tyler,Northeast TX,32.3513,-95.3011,America/Chicago
+432,USA,Texas,Midland,West TX,31.9973,-102.0779,America/Chicago
+434,USA,Virginia,Charlottesville,Central VA,38.0293,-78.4767,America/New_York
+435,USA,Utah,St. George,Southern UT,37.0965,-113.5684,America/Denver
+440,USA,Ohio,Cleveland,Northeast OH,41.4993,-81.6944,America/New_York
+442,USA,California,Oceanside,San Diego County,33.1959,-117.3795,America/Los_Angeles
+443,USA,Maryland,Baltimore,Central MD,39.2904,-76.6122,America/New_York
+458,USA,Oregon,Eugene,Western OR,44.0521,-123.0868,America/Los_Angeles
+469,USA,Texas,Dallas,North TX,32.7767,-96.7970,America/Chicago
+470,USA,Georgia,Atlanta,Metro Atlanta,33.7490,-84.3880,America/New_York
+475,USA,Connecticut,Bridgeport,Southwest CT,41.1865,-73.1952,America/New_York
+478,USA,Georgia,Macon,Central GA,32.8407,-83.6324,America/New_York
+479,USA,Arkansas,Fort Smith,Northwest AR,35.3859,-94.3985,America/Chicago
+480,USA,Arizona,Scottsdale,Phoenix Metro,33.4942,-111.9261,America/Phoenix
+484,USA,Pennsylvania,Allentown,Eastern PA,40.6084,-75.4902,America/New_York
+501,USA,Arkansas,Little Rock,Central AR,34.7465,-92.2896,America/Chicago
+502,USA,Kentucky,Louisville,North Central KY,38.2527,-85.7585,America/New_York
+503,USA,Oregon,Portland,Northwest OR,45.5152,-122.6784,America/Los_Angeles
+504,USA,Louisiana,New Orleans,Southeast LA,29.9511,-90.0715,America/Chicago
+505,USA,New Mexico,Albuquerque,Central NM,35.0844,-106.6504,America/Denver
+507,USA,Minnesota,Rochester,Southeast MN,44.0121,-92.4802,America/Chicago
+508,USA,Massachusetts,Worcester,Central MA,42.2626,-71.8023,America/New_York
+509,USA,Washington,Spokane,Eastern WA,47.6588,-117.4260,America/Los_Angeles
+510,USA,California,Oakland,East Bay,37.8044,-122.2712,America/Los_Angeles
+512,USA,Texas,Austin,Central TX,30.2672,-97.7431,America/Chicago
+513,USA,Ohio,Cincinnati,Southwest OH,39.1031,-84.5120,America/New_York
+515,USA,Iowa,Des Moines,Central IA,41.5868,-93.6250,America/Chicago
+516,USA,New York,Hempstead,Long Island,40.7062,-73.6187,America/New_York
+517,USA,Michigan,Lansing,South Central MI,42.7325,-84.5555,America/New_York
+518,USA,New York,Albany,Eastern NY,42.6526,-73.7562,America/New_York
+520,USA,Arizona,Tucson,Southeast AZ,32.2226,-110.9747,America/Phoenix
+530,USA,California,Redding,Northern CA,40.5865,-122.3917,America/Los_Angeles
+531,USA,Nebraska,Omaha,Eastern NE,41.2565,-95.9345,America/Chicago
+534,USA,Wisconsin,Eau Claire,Western WI,44.8113,-91.4985,America/Chicago
+539,USA,Oklahoma,Tulsa,Northeast OK,36.1540,-95.9928,America/Chicago
+540,USA,Virginia,Roanoke,Western VA,37.2710,-79.9414,America/New_York
+541,USA,Oregon,Eugene,Central OR,44.0521,-123.0868,America/Los_Angeles
+551,USA,New Jersey,Jersey City,Northern NJ,40.7178,-74.0431,America/New_York
+559,USA,California,Fresno,Central CA,36.7378,-119.7871,America/Los_Angeles
+561,USA,Florida,West Palm Beach,Southeast FL,26.7153,-80.0534,America/New_York
+562,USA,California,Long Beach,Los Angeles County,33.7701,-118.1937,America/Los_Angeles
+563,USA,Iowa,Davenport,Eastern IA,41.5236,-90.5776,America/Chicago
+564,USA,Washington,Everett,Western WA,47.9790,-122.2021,America/Los_Angeles
+567,USA,Ohio,Toledo,Northwest OH,41.6528,-83.5379,America/New_York
+570,USA,Pennsylvania,Scranton,Northeast PA,41.4090,-75.6624,America/New_York
+571,USA,Virginia,Arlington,Northern VA,38.8816,-77.0910,America/New_York
+573,USA,Missouri,Columbia,Central MO,38.9517,-92.3341,America/Chicago
+574,USA,Indiana,South Bend,Northern IN,41.6764,-86.2520,America/New_York
+575,USA,New Mexico,Las Cruces,Southern NM,32.3199,-106.7637,America/Denver
+580,USA,Oklahoma,Lawton,Southwest OK,34.6036,-98.3959,America/Chicago
+585,USA,New York,Rochester,Western NY,43.1566,-77.6088,America/New_York
+586,USA,Michigan,Warren,Southeast MI,42.5145,-83.0147,America/New_York
+601,USA,Mississippi,Jackson,Central MS,32.2988,-90.1848,America/Chicago
+602,USA,Arizona,Phoenix,Central Phoenix,33.4484,-112.0740,America/Phoenix
+603,USA,New Hampshire,Manchester,All of NH,42.9956,-71.4548,America/New_York
+605,USA,South Dakota,Sioux Falls,All of SD,43.5460,-96.7313,America/Chicago
+606,USA,Kentucky,Ashland,Eastern KY,38.4784,-82.6380,America/New_York
+607,USA,New York,Binghamton,South Central NY,42.0987,-75.9180,America/New_York
+608,USA,Wisconsin,Madison,South Central WI,43.0731,-89.4012,America/Chicago
+609,USA,New Jersey,Trenton,Central NJ,40.2171,-74.7429,America/New_York
+610,USA,Pennsylvania,Allentown,Southeast PA,40.6084,-75.4902,America/New_York
+612,USA,Minnesota,Minneapolis,Central MN,44.9778,-93.2650,America/Chicago
+614,USA,Ohio,Columbus,Central OH,39.9612,-82.9988,America/New_York
+615,USA,Tennessee,Nashville,Central TN,36.1627,-86.7816,America/Chicago
+616,USA,Michigan,Grand Rapids,West MI,42.9634,-85.6681,America/New_York
+617,USA,Massachusetts,Boston,Metro Boston,42.3601,-71.0589,America/New_York
+618,USA,Illinois,Belleville,Southern IL,38.5200,-89.9840,America/Chicago
+619,USA,California,San Diego,South San Diego,32.7157,-117.1611,America/Los_Angeles
+620,USA,Kansas,Hutchinson,South Central KS,38.0608,-97.9298,America/Chicago
+623,USA,Arizona,Phoenix,West Phoenix,33.4484,-112.0740,America/Phoenix
+626,USA,California,Pasadena,East LA County,34.1478,-118.1445,America/Los_Angeles
+628,USA,California,San Francisco,SF Bay Area,37.7749,-122.4194,America/Los_Angeles
+629,USA,Tennessee,Nashville,Central TN,36.1627,-86.7816,America/Chicago
+630,USA,Illinois,Aurora,Western Chicago Suburbs,41.7606,-88.3201,America/Chicago
+631,USA,New York,Riverhead,Long Island,40.9176,-72.6621,America/New_York
+636,USA,Missouri,St. Charles,Eastern MO,38.7833,-90.5373,America/Chicago
+641,USA,Iowa,Mason City,North Central IA,43.1536,-93.2010,America/Chicago
+646,USA,New York,New York City,Manhattan,40.7128,-74.0060,America/New_York
+650,USA,California,San Mateo,San Francisco Peninsula,37.5630,-122.3255,America/Los_Angeles
+651,USA,Minnesota,St. Paul,East Central MN,44.9537,-93.0900,America/Chicago
+657,USA,California,Anaheim,Orange County,33.8366,-117.9143,America/Los_Angeles
+659,USA,Alabama,Birmingham,Central AL,33.5186,-86.8104,America/Chicago
+660,USA,Missouri,Sedalia,North Central MO,38.7045,-93.2283,America/Chicago
+661,USA,California,Bakersfield,Kern County,35.3733,-119.0187,America/Los_Angeles
+662,USA,Mississippi,Tupelo,Northern MS,34.2576,-88.7034,America/Chicago
+667,USA,Maryland,Baltimore,Central MD,39.2904,-76.6122,America/New_York
+669,USA,California,San Jose,Santa Clara County,37.3382,-121.8863,America/Los_Angeles
+678,USA,Georgia,Atlanta,Metro Atlanta,33.7490,-84.3880,America/New_York
+681,USA,West Virginia,Charleston,All of WV,38.3498,-81.6326,America/New_York
+682,USA,Texas,Fort Worth,North TX,32.7555,-97.3308,America/Chicago
+689,USA,Florida,Orlando,Central FL,28.5383,-81.3792,America/New_York
+701,USA,North Dakota,Fargo,All of ND,46.8772,-96.7898,America/Chicago
+702,USA,Nevada,Las Vegas,Southern NV,36.1699,-115.1398,America/Los_Angeles
+703,USA,Virginia,Arlington,Northern VA,38.8816,-77.0910,America/New_York
+704,USA,North Carolina,Charlotte,Southwest NC,35.2271,-80.8431,America/New_York
+706,USA,Georgia,Augusta,East GA,33.4735,-82.0105,America/New_York
+707,USA,California,Santa Rosa,North Bay,38.4404,-122.7141,America/Los_Angeles
+708,USA,Illinois,Cicero,South Chicago Suburbs,41.8406,-87.7539,America/Chicago
+712,USA,Iowa,Sioux City,Western IA,42.4960,-96.4003,America/Chicago
+713,USA,Texas,Houston,Central Houston,29.7604,-95.3698,America/Chicago
+714,USA,California,Anaheim,Orange County,33.8366,-117.9143,America/Los_Angeles
+715,USA,Wisconsin,Wausau,North Central WI,44.9591,-89.6301,America/Chicago
+716,USA,New York,Buffalo,Western NY,42.8864,-78.8784,America/New_York
+717,USA,Pennsylvania,Harrisburg,South Central PA,40.2732,-76.8867,America/New_York
+718,USA,New York,New York City,Bronx/Brooklyn/Queens/Staten Island,40.7128,-74.0060,America/New_York
+719,USA,Colorado,Colorado Springs,Central CO,38.8339,-104.8214,America/Denver
+720,USA,Colorado,Denver,Metro Denver,39.7392,-104.9903,America/Denver
+724,USA,Pennsylvania,New Castle,Western PA,41.0037,-80.3470,America/New_York
+725,USA,Nevada,Las Vegas,Southern NV,36.1699,-115.1398,America/Los_Angeles
+727,USA,Florida,St. Petersburg,West Central FL,27.7676,-82.6403,America/New_York
+730,USA,Illinois,Quincy,Western IL,39.9356,-91.4099,America/Chicago
+731,USA,Tennessee,Jackson,West TN,35.6145,-88.8139,America/Chicago
+732,USA,New Jersey,Edison,Central NJ,40.5187,-74.4121,America/New_York
+734,USA,Michigan,Ann Arbor,Southeast MI,42.2808,-83.7430,America/New_York
+737,USA,Texas,Austin,Central TX,30.2672,-97.7431,America/Chicago
+740,USA,Ohio,Zanesville,Southeast OH,39.9403,-82.0132,America/New_York
+747,USA,California,Burbank,Los Angeles County,34.1808,-118.3090,America/Los_Angeles
+754,USA,Florida,Fort Lauderdale,Southeast FL,26.1224,-80.1373,America/New_York
+757,USA,Virginia,Virginia Beach,Southeast VA,36.8529,-75.9780,America/New_York
+760,USA,California,Oceanside,San Diego County,33.1959,-117.3795,America/Los_Angeles
+762,USA,Georgia,Augusta,East GA,33.4735,-82.0105,America/New_York
+763,USA,Minnesota,Brooklyn Park,North Metro Minneapolis,45.0941,-93.3563,America/Chicago
+765,USA,Indiana,Lafayette,West Central IN,40.4167,-86.8753,America/New_York
+769,USA,Mississippi,Jackson,Central MS,32.2988,-90.1848,America/Chicago
+770,USA,Georgia,Atlanta,Metro Atlanta,33.7490,-84.3880,America/New_York
+772,USA,Florida,Vero Beach,East Central FL,27.6386,-80.3973,America/New_York
+773,USA,Illinois,Chicago,Chicago,41.8781,-87.6298,America/Chicago
+774,USA,Massachusetts,Worcester,Central MA,42.2626,-71.8023,America/New_York
+775,USA,Nevada,Reno,Northern NV,39.5296,-119.8138,America/Los_Angeles
+779,USA,Illinois,Rockford,Northern IL,42.2711,-89.0940,America/Chicago
+781,USA,Massachusetts,Boston,Metro Boston,42.3601,-71.0589,America/New_York
+785,USA,Kansas,Topeka,Northeast KS,39.0558,-95.6890,America/Chicago
+786,USA,Florida,Miami,Southeast FL,25.7617,-80.1918,America/New_York
+801,USA,Utah,Salt Lake City,Northern UT,40.7608,-111.8910,America/Denver
+802,USA,Vermont,Burlington,All of VT,44.4759,-73.2121,America/New_York
+803,USA,South Carolina,Columbia,Central SC,34.0007,-81.0348,America/New_York
+804,USA,Virginia,Richmond,East Central VA,37.5407,-77.4360,America/New_York
+805,USA,California,Oxnard,Ventura County,34.1975,-119.1771,America/Los_Angeles
+806,USA,Texas,Amarillo,Panhandle TX,35.2220,-101.8313,America/Chicago
+808,USA,Hawaii,Honolulu,All of HI,21.3099,-157.8581,Pacific/Honolulu
+810,USA,Michigan,Flint,East Central MI,43.0125,-83.6875,America/New_York
+812,USA,Indiana,Bloomington,South Central IN,39.1653,-86.5264,America/New_York
+813,USA,Florida,Tampa,West Central FL,27.9506,-82.4572,America/New_York
+814,USA,Pennsylvania,Erie,Northwest PA,42.1292,-80.0851,America/New_York
+815,USA,Illinois,Rockford,Northern IL,42.2711,-89.0940,America/Chicago
+816,USA,Missouri,Kansas City,Western MO,39.0997,-94.5786,America/Chicago
+817,USA,Texas,Fort Worth,North TX,32.7555,-97.3308,America/Chicago
+818,USA,California,Burbank,San Fernando Valley,34.1808,-118.3090,America/Los_Angeles
+828,USA,North Carolina,Asheville,Western NC,35.5951,-82.5515,America/New_York
+830,USA,Texas,New Braunfels,South Central TX,29.7030,-98.1245,America/Chicago
+831,USA,California,Salinas,Monterey County,36.6777,-121.6555,America/Los_Angeles
+832,USA,Texas,Houston,Metro Houston,29.7604,-95.3698,America/Chicago
+843,USA,South Carolina,Charleston,Coastal SC,32.7765,-79.9311,America/New_York
+845,USA,New York,Poughkeepsie,Hudson Valley,41.7004,-73.9209,America/New_York
+847,USA,Illinois,Evanston,North Chicago Suburbs,42.0451,-87.6877,America/Chicago
+848,USA,New Jersey,New Brunswick,Central NJ,40.4862,-74.4518,America/New_York
+850,USA,Florida,Tallahassee,Panhandle FL,30.4383,-84.2807,America/New_York
+854,USA,South Carolina,Charleston,Coastal SC,32.7765,-79.9311,America/New_York
+856,USA,New Jersey,Camden,South NJ,39.9259,-75.1196,America/New_York
+857,USA,Massachusetts,Boston,Metro Boston,42.3601,-71.0589,America/New_York
+858,USA,California,San Diego,North San Diego,32.7157,-117.1611,America/Los_Angeles
+859,USA,Kentucky,Lexington,Central KY,38.0406,-84.5037,America/New_York
+860,USA,Connecticut,Hartford,North Central CT,41.7658,-72.6734,America/New_York
+862,USA,New Jersey,Newark,Northern NJ,40.7357,-74.1724,America/New_York
+863,USA,Florida,Lakeland,Central FL,28.0395,-81.9498,America/New_York
+864,USA,South Carolina,Greenville,Upstate SC,34.8526,-82.3940,America/New_York
+865,USA,Tennessee,Knoxville,East TN,35.9606,-83.9207,America/New_York
+870,USA,Arkansas,Jonesboro,Eastern AR,35.8423,-90.7043,America/Chicago
+872,USA,Illinois,Chicago,Chicago,41.8781,-87.6298,America/Chicago
+878,USA,Pennsylvania,Pittsburgh,Western PA,40.4406,-79.9959,America/New_York
+901,USA,Tennessee,Memphis,Southwest TN,35.1495,-90.0490,America/Chicago
+903,USA,Texas,Tyler,Northeast TX,32.3513,-95.3011,America/Chicago
+904,USA,Florida,Jacksonville,Northeast FL,30.3322,-81.6557,America/New_York
+906,USA,Michigan,Marquette,Upper Peninsula MI,46.5436,-87.3954,America/New_York
+907,USA,Alaska,Anchorage,All of AK,61.2181,-149.9003,America/Anchorage
+908,USA,New Jersey,Elizabeth,North Central NJ,40.6640,-74.2107,America/New_York
+909,USA,California,San Bernardino,San Bernardino County,34.1083,-117.2898,America/Los_Angeles
+910,USA,North Carolina,Fayetteville,Southeast NC,35.0527,-78.8784,America/New_York
+912,USA,Georgia,Savannah,Southeast GA,32.0809,-81.0912,America/New_York
+913,USA,Kansas,Kansas City,Northeast KS,39.1142,-94.6275,America/Chicago
+914,USA,New York,Yonkers,Westchester County,40.9312,-73.8987,America/New_York
+915,USA,Texas,El Paso,Far West TX,31.7619,-106.4850,America/Denver
+916,USA,California,Sacramento,Sacramento County,38.5816,-121.4944,America/Los_Angeles
+917,USA,New York,New York City,All boroughs,40.7128,-74.0060,America/New_York
+918,USA,Oklahoma,Tulsa,Northeast OK,36.1540,-95.9928,America/Chicago
+919,USA,North Carolina,Raleigh,Central NC,35.7796,-78.6382,America/New_York
+920,USA,Wisconsin,Green Bay,Northeast WI,44.5133,-88.0133,America/Chicago
+925,USA,California,Concord,East Bay,37.9780,-122.0311,America/Los_Angeles
+928,USA,Arizona,Flagstaff,Northern AZ,35.1983,-111.6513,America/Phoenix
+929,USA,New York,New York City,All boroughs,40.7128,-74.0060,America/New_York
+930,USA,Indiana,Evansville,Southwest IN,37.9716,-87.5711,America/Chicago
+931,USA,Tennessee,Clarksville,Middle TN,36.5298,-87.3595,America/Chicago
+934,USA,New York,Hempstead,Long Island,40.7062,-73.6187,America/New_York
+936,USA,Texas,Conroe,Southeast TX,30.3119,-95.4560,America/Chicago
+937,USA,Ohio,Dayton,Southwest OH,39.7589,-84.1916,America/New_York
+938,USA,Alabama,Huntsville,Northern AL,34.7304,-86.5861,America/Chicago
+940,USA,Texas,Wichita Falls,North TX,33.9137,-98.4934,America/Chicago
+941,USA,Florida,Sarasota,Southwest FL,27.3364,-82.5307,America/New_York
+947,USA,Michigan,Troy,Southeast MI,42.6064,-83.1498,America/New_York
+949,USA,California,Irvine,Orange County,33.6846,-117.8265,America/Los_Angeles
+951,USA,California,Riverside,Riverside County,33.9533,-117.3962,America/Los_Angeles
+952,USA,Minnesota,Bloomington,South Metro Minneapolis,44.8408,-93.2983,America/Chicago
+954,USA,Florida,Fort Lauderdale,Southeast FL,26.1224,-80.1373,America/New_York
+956,USA,Texas,Laredo,South TX,27.5306,-99.4803,America/Chicago
+959,USA,Connecticut,Hartford,North Central CT,41.7658,-72.6734,America/New_York
+970,USA,Colorado,Fort Collins,Northern CO,40.5853,-105.0844,America/Denver
+971,USA,Oregon,Portland,Northwest OR,45.5152,-122.6784,America/Los_Angeles
+972,USA,Texas,Dallas,North TX,32.7767,-96.7970,America/Chicago
+973,USA,New Jersey,Newark,Northern NJ,40.7357,-74.1724,America/New_York
+978,USA,Massachusetts,Lowell,Northeast MA,42.6334,-71.3162,America/New_York
+979,USA,Texas,College Station,Southeast TX,30.6280,-96.3344,America/Chicago
+980,USA,North Carolina,Charlotte,Southwest NC,35.2271,-80.8431,America/New_York
+984,USA,North Carolina,Raleigh,Central NC,35.7796,-78.6382,America/New_York
+985,USA,Louisiana,Houma,Southeast LA,29.5958,-90.7195,America/Chicago
+989,USA,Michigan,Saginaw,East Central MI,43.4195,-83.9508,America/New_York
+201,Canada,Manitoba,Winnipeg,All of MB,49.8951,-97.1384,America/Winnipeg
+204,Canada,Manitoba,Winnipeg,All of MB,49.8951,-97.1384,America/Winnipeg
+226,Canada,Ontario,London,Southwest ON,42.9849,-81.2453,America/Toronto
+236,Canada,British Columbia,Vancouver,Lower Mainland BC,49.2827,-123.1207,America/Vancouver
+249,Canada,Ontario,Sudbury,Northern ON,46.4917,-80.9930,America/Toronto
+250,Canada,British Columbia,Victoria,Vancouver Island BC,48.4284,-123.3656,America/Vancouver
+263,Canada,Quebec,Montreal,Southwest QC,45.5017,-73.5673,America/Toronto
+289,Canada,Ontario,Hamilton,Southwest ON,43.2557,-79.8711,America/Toronto
+306,Canada,Saskatchewan,Regina,All of SK,50.4452,-104.6189,America/Regina
+343,Canada,Ontario,Ottawa,Eastern ON,45.4215,-75.6972,America/Toronto
+354,Canada,Quebec,Montreal,Southwest QC,45.5017,-73.5673,America/Toronto
+365,Canada,Ontario,Hamilton,Southwest ON,43.2557,-79.8711,America/Toronto
+367,Canada,Quebec,Quebec City,Eastern QC,46.8139,-71.2080,America/Toronto
+368,Canada,Alberta,Edmonton,Central AB,53.5461,-113.4938,America/Edmonton
+382,Canada,Ontario,Sudbury,Northern ON,46.4917,-80.9930,America/Toronto
+403,Canada,Alberta,Calgary,Southern AB,51.0447,-114.0719,America/Edmonton
+416,Canada,Ontario,Toronto,Greater Toronto Area,43.6532,-79.3832,America/Toronto
+418,Canada,Quebec,Quebec City,Eastern QC,46.8139,-71.2080,America/Toronto
+428,Canada,Alberta,Calgary,Southern AB,51.0447,-114.0719,America/Edmonton
+431,Canada,Manitoba,Winnipeg,All of MB,49.8951,-97.1384,America/Winnipeg
+437,Canada,Ontario,Toronto,Greater Toronto Area,43.6532,-79.3832,America/Toronto
+438,Canada,Quebec,Montreal,Southwest QC,45.5017,-73.5673,America/Toronto
+450,Canada,Quebec,Montreal,Suburbs of Montreal,45.5017,-73.5673,America/Toronto
+468,Canada,Quebec,Quebec City,Eastern QC,46.8139,-71.2080,America/Toronto
+474,Canada,Manitoba,Winnipeg,All of MB,49.8951,-97.1384,America/Winnipeg
+506,Canada,New Brunswick,Moncton,All of NB,46.0878,-64.7782,America/Halifax
+514,Canada,Quebec,Montreal,Island of Montreal,45.5017,-73.5673,America/Toronto
+519,Canada,Ontario,London,Southwest ON,42.9849,-81.2453,America/Toronto
+548,Canada,Ontario,London,Southwest ON,42.9849,-81.2453,America/Toronto
+579,Canada,Quebec,Montreal,Off-island Montreal,45.5017,-73.5673,America/Toronto
+581,Canada,Quebec,Quebec City,Eastern QC,46.8139,-71.2080,America/Toronto
+584,Canada,Manitoba,Winnipeg,All of MB,49.8951,-97.1384,America/Winnipeg
+587,Canada,Alberta,Calgary,Southern AB,51.0447,-114.0719,America/Edmonton
+604,Canada,British Columbia,Vancouver,Lower Mainland BC,49.2827,-123.1207,America/Vancouver
+613,Canada,Ontario,Ottawa,Eastern ON,45.4215,-75.6972,America/Toronto
+639,Canada,Saskatchewan,Regina,All of SK,50.4452,-104.6189,America/Regina
+647,Canada,Ontario,Toronto,Greater Toronto Area,43.6532,-79.3832,America/Toronto
+672,Canada,British Columbia,Vancouver,Lower Mainland BC,49.2827,-123.1207,America/Vancouver
+705,Canada,Ontario,Barrie,Central ON,44.3894,-79.6903,America/Toronto
+709,Canada,Newfoundland and Labrador,St. John's,All of NL,47.5615,-52.7126,America/St_Johns
+778,Canada,British Columbia,Vancouver,Lower Mainland BC,49.2827,-123.1207,America/Vancouver
+780,Canada,Alberta,Edmonton,Central AB,53.5461,-113.4938,America/Edmonton
+782,Canada,Nova Scotia,Halifax,All of NS,44.6488,-63.5752,America/Halifax
+807,Canada,Ontario,Thunder Bay,Northwest ON,48.3809,-89.2477,America/Toronto
+819,Canada,Quebec,Gatineau,Western QC,45.4765,-75.7013,America/Toronto
+825,Canada,Alberta,Calgary,Southern AB,51.0447,-114.0719,America/Edmonton
+867,Canada,Yukon,Whitehorse,YT/NT/NU,60.7212,-135.0568,America/Whitehorse
+873,Canada,Quebec,Sherbrooke,Eastern Townships QC,45.4042,-71.8929,America/Toronto
+902,Canada,Nova Scotia,Halifax,All of NS,44.6488,-63.5752,America/Halifax
+905,Canada,Ontario,Hamilton,Greater Toronto Area,43.2557,-79.8711,America/Toronto
